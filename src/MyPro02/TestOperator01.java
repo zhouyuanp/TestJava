@@ -32,13 +32,5 @@ public class TestOperator01 {
         a = 4;
         a/=b;
         System.out.println("a="+a+"\nb="+b);
-
-
     }
-
-
-
-
-
-
 }
