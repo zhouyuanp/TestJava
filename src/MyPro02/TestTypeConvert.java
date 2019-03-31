@@ -25,7 +25,7 @@ public class TestTypeConvert {
  * 测试强制类型转换
  * 需要单独运行a1
  */
-class a1  {
+class TestTypeConstraint  {
 	public static void main(String[] args){
 		double x = 3.14;
 		int nx = (int)x;
@@ -34,8 +34,6 @@ class a1  {
 		System.out.println(nx);
 		System.out.println(d);
 		System.out.println((char)d);
-
-
 
 	}
 
