@@ -11,6 +11,15 @@ public class TestFor {
 		for (int i = 1;i <= 100; i++ ){
 			sum = sum + i;
 		}
+		System.out.println(sum);
+		//do while
+		int c = 0;
+		int sum1 = 0;
+		do {
+			sum1 += c; //sum1 = sum1 + c
+			c++;
+		}while (c <= 100);
+		System.out.println("Sum= "+ sum1);
 		//初始化值的作用域
 	//	System.out.println(i); i 没有定义 i 在for循环里面
 		/** 和while 一样
@@ -21,7 +30,7 @@ public class TestFor {
 		 * 		i++;
 		 *                }
 		 */
-		System.out.println(sum);
+
 		/** 执行过程
 		 * 1.执行初始化语句 i=1;
 		 * 2.判断 i<=100;
@@ -35,10 +44,10 @@ public class TestFor {
 			System.out.println("i="+i+"j="+j);
 		}
         //死循环
-		for (;;){
+		/**for (;;){
 			System.out.println("爱你到永远!!!! 积极主动的去面对 ");
 		}
-
+        */
 
 
 	}
