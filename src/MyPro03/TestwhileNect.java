@@ -43,7 +43,7 @@ public class TestwhileNect {
 				System.out.print(i+"\t");
 				a1++;
 			}
-			if (a1==5){  //计时器 每5个换一次行
+			if (a1==5){  //计数器 每5个换一次行
 				System.out.println();
 				a1=0;
 			}
