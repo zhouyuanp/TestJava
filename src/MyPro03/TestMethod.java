@@ -8,7 +8,7 @@ package MyPro03;
 public class TestMethod {
 	public static void main(String[] args){
 
-		TestMethod tm = new TestMethod();
+		TestMethod tm = new TestMethod();      //方法中加了static后就不用new 可以直接调用不需要创建对象
 
 
 		int c1 =  tm.add(30,40,50)+1000;  //实参   //把整体当做一个int类型
