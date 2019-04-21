@@ -74,19 +74,7 @@ public class HomeWork {
 			}
 			a++;
 		}
-
-
-
-
-
-
-
 }
-
-
-
-
-
 
 }
 
