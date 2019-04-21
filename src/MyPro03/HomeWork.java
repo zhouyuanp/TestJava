@@ -63,14 +63,15 @@ public class HomeWork {
 				System.out.println();
 			}
 		}
-		System.out.println("用 while 循环输出 1-1000 之间能被 5 整除的数");
+		System.out.println();
+		System.out.println("用 while 循环输出 1-1000 之间能被 5 整除的数"+"\t");
 		int a =1;
 		while (a<1000){
 			if (a%5==0){
 				System.out.print(a+"\t");
 			}
 			if (a%25==0){
-				System.out.println();
+				System.out.println("\t");
 			}
 			a++;
 		}
