@@ -16,12 +16,14 @@ public class TestwhileNect {
 
  System.out.println("-----------------------------------------------------");
 		//九九乘法表
-		for (int b = 1;b <= 9;b++){
-			for (int a = 1;a < b+1;a++){
+		for (int b = 1;b <= 9;b++){ //外循环决定行数
+			for (int a = 1;a < b+1;a++){   //内循环决定每行的每行的列数
 				System.out.print(a+"*"+b+"="+(a*b)+"\t");
 			}
 			System.out.println();  //用于换行
 		}
+
+
 		//计算出1--100 之间的偶数和和奇数和
 		int sum1 = 0;
 		int sum2 = 0;
