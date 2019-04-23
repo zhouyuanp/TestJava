@@ -11,6 +11,7 @@ public class HomeWork {
 		Multiplication();
 		While01();
 		Integral();
+		Sigma();
 
 	}
 	private static void Multiplication() {
@@ -76,6 +77,46 @@ public class HomeWork {
 			a++;
 		}
 }
+    public static void Sigma(){
+		System.out.println("");
+	    int sum = 0;
+	    for (int i = 1; i <= 100; i++) {
+		    for (int j = 1; j <= i; j++) {
+			    //sum += j;
+			    sum = sum +j;
+		    }
+	    }
+	    System.out.print("∑1+∑2+...+∑100=" + sum);
+    }
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
 
