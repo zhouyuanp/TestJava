@@ -15,8 +15,9 @@ public class TestBreak {
 			int i = (int)Math.round(100 * Math.random()); //需要round取值类型float和double转换为int
 			System.out.println(i);
 			//当等于88时退出循环
-			if (i==88){
+			if ( i == 88 ){
 				break;
+
 			}
 		}
 		//输出循环的次数

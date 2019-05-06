@@ -12,6 +12,7 @@ public class HomeWork {
 		While01();
 		Integral();
 		Sigma();
+		Random();
 
 	}
 	private static void Multiplication() {
@@ -44,10 +45,10 @@ public class HomeWork {
 		int sum01 = 0;
 		int sum02 = 0;
 		for (int i =0;i<=100;i++){
-			if (i%2==0){
-				sum01 +=i;
+			if (i % 2 == 0){
+				sum01 += i;
 			}else {
-				sum02 +=i;
+				sum02 += i;
 			}
 		}
 		System.out.println(sum01);  //注意输出语句放到for循环的外面
@@ -91,29 +92,24 @@ public class HomeWork {
 			    sum = sum +j;
 		    }
 	    }
-	    System.out.print("∑1+∑2+...+∑100=" + sum);
+	    System.out.println("∑1+∑2+...+∑100=" + sum);
     }
 
+    //生成 0-100 随机数，直到生成 88 为止，停止循环！
+	public static void Random(){
+		while (true) {   //循环输出
+			int i  = (int)Math.round(Math.random()*100);    //需要把数据转换成int(正整数)
+			System.out.println(i);
+			if (i == 88){ //判断等于88时候结束
+				System.out.println("生成随机数88,结束循环");
+				break;
+			}
+		}
+		}
 
 
+	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
 
 
 

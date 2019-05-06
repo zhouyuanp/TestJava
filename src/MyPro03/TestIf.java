@@ -11,7 +11,7 @@ public class TestIf {
 
         int i = (int)(6*Math.random()+1);
         System.out.println(i);
-        if (i<=3) {  //不加括号只执行1行代码
+        if (i <= 3) {  //不加括号只执行1行代码
             System.out.println("小");
             System.out.println("xxxxx");
         }
