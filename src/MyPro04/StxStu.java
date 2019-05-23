@@ -5,23 +5,47 @@ package MyPro04;
  * 类和对象和方法
  * @author zhouyuanpeng
  */
-public class StxStu {
+public class StxStu {   //一个文件中只能有一个public 修饰的类
 
 	int id;
 	String name;
 	int age;
 
+    Computer comp; //comp 是对象
+
 	void stuld(){
-		System.out.println("认真学是把不会的搞定");
+		System.out.println("认真学是把不会的搞定了,买"+comp.brand); //通过点. 来访问相关的属性
 	}
 	void play(){
 		System.out.println("有时间好好歇歇");
 	}
 
+	//相当于StxStu的构造方法
+	//通过构造方法来创建这个对象
+	//构造方法,用于创建这个类的对象,无参的构造方法可以由系统自动创建
+	//方法名和类名保持一致
 
+	StxStu(){
+
+	}
 
 	public static void main (String[] args){
-		StxStu stu = new StxStu();
+		StxStu stu = new StxStu();  //new创建一个对象
+		stu.id = 1001;
+		stu.name = "周元鹏";
+		stu.age = 27;
+
+		Computer c1 = new Computer();
+
+		c1.brand = "苹果电脑";
+		stu.comp = c1;
+        stu.stuld();
 		stu.play();
 	}
+}
+
+class Computer{
+	String brand;
+
+
 }
