@@ -10,7 +10,6 @@ public class StxStu {   //一个文件中只能有一个public 修饰的类
 	int id;
 	String name;
 	int age;
-
     Computer comp; //comp 是对象
 
 	void stuld(){
@@ -29,13 +28,14 @@ public class StxStu {   //一个文件中只能有一个public 修饰的类
 
 	}
 
-	public static void main (String[] args){
+	public static void main (String[] args){//静态方法 在main 方法中创建了两个对象
 		StxStu stu = new StxStu();  //new创建一个对象
+		System.out.println(stu);  //打印对象地址
 		stu.id = 1001;
 		stu.name = "周元鹏";
 		stu.age = 27;
 
-		Computer c1 = new Computer();
+		Computer c1 = new Computer();// main 方法的局部变量  //new 创建一个对象
 
 		c1.brand = "苹果电脑";
 		stu.comp = c1;
