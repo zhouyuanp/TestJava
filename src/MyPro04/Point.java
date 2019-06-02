@@ -16,8 +16,8 @@ class Point {
         return Math.sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y));
     }
 
-}
 
+}
 
 class TestConstructor{                       //测试构造方法
     public static void main(String[] args){
