@@ -13,6 +13,8 @@ public class TestEncapsulation {
         h.sayAge();
         Person4 p4 = new Person4();
         p4.setAge(100);
+        p4.setId(123);
+        System.out.println(p4.getId());
         System.out.println(p4.getAge());
         p4.setName("zhouyuanpeng");
 

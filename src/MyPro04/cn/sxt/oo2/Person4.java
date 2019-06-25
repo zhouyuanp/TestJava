@@ -28,10 +28,14 @@ public class Person4 {
         return this.age;
     }
     public void setId(int id) {
-        this.id = id;
+        if (id>=1&&id<=130){
+            this.id = id;
+        }else {
+            System.out.println("请输入1-130之间的数字");
+        }
     }
     public int getId() {
-        return id;
+        return this.id;
     }
 
     public void setMan(boolean man) {
