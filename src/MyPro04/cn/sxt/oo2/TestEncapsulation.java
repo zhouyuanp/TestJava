@@ -11,6 +11,11 @@ public class TestEncapsulation {
         h.name = "zhouyuanpeng";
         h.height = 180;
         h.sayAge();
+        Person4 p4 = new Person4();
+        p4.setAge(100);
+        System.out.println(p4.getAge());
+        p4.setName("zhouyuanpeng");
+
     }
 }
 
