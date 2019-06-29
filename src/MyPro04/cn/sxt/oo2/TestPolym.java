@@ -13,10 +13,17 @@ public class TestPolym {
         Animal a = new Animal();
         animalCry(a);
 
-        Dog d = new Dog(); //父类引用指向子类对象  类的实例化
+        Animal d = new Dog(); //父类引用指向子类对象  类的实例化
         animalCry(d);
+
+        Animal c = new Cat();  //对象自动想上转型
         animalCry(new Cat());
 
+        Dog d2 = (Dog)d;  //强制向下转型
+        d2.seeDoor();
+
+//        Dog d3 = (Dog)c;  //不能把猫转换成狗  ClassCastException 类型转化错误
+//        d3.seeDoor();
     }
 
 
@@ -39,6 +46,10 @@ class Animal{
 class Dog extends Animal{   //方法的继承
     public void shout(){
         System.out.println("狗叫了一声---汪汪汪");
+    }
+
+    public void seeDoor(){
+        System.out.println("在家看门吧");
     }
 }
 
