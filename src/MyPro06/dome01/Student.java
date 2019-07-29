@@ -1,6 +1,8 @@
-package src.MyPro06;
+package src.MyPro06.dome01;
 
-public  class Student extends Person{
+import src.MyPro06.dome01.Person;
+
+public  class Student extends Person {
 
     public Student(){
         super();//调用直接父类的无法构造方法

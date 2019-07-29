@@ -1,4 +1,4 @@
-package src.MyPro06.dome;
+package src.MyPro06.dome01;
 
 public class TestAnimal {
 

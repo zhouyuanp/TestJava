@@ -1,4 +1,4 @@
-package src.MyPro06;
+package src.MyPro06.dome01;
 
 public abstract class Person {
     //1 成员变量 实例变量 属性
