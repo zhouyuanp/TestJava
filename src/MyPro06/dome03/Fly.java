@@ -12,6 +12,10 @@ public interface Fly {
     public void flying(); //飞行的能力
 
 }
+
+/**
+ * 飞机的实现类
+ */
 class AirPlane  implements Fly{    //类实现接口是实现接口的中的方法
     @Override
     public void flying() {
@@ -20,6 +24,10 @@ class AirPlane  implements Fly{    //类实现接口是实现接口的中的方�
 
 }
 
+/**
+ * 鸟的实现类
+ *
+ */
 class Bird implements Fly{
 
     @Override
@@ -27,12 +35,12 @@ class Bird implements Fly{
         System.out.println("小鸟蓝天上飞行");
 
     }
-    public void flying1() {
-        System.out.println("小鸟蓝天上飞行");
 
-    }
 }
-
+/**
+ * 足球的实现类
+ *
+ */
 class FootBall implements Fly{
 
     @Override

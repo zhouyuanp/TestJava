@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" afterDir="false" />
+    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="接口+实现类+接口的实现类方式">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome02/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome02/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome02/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome02/Play.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,26 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Fly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-              <folding>
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="247">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="361">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -191,8 +182,8 @@
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/asdfasdf.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" />
       </list>
     </option>
   </component>
@@ -203,10 +194,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1813" />
-    <option name="y" value="-144" />
-    <option name="width" value="1920" />
-    <option name="height" value="877" />
+    <option name="x" value="180" />
+    <option name="y" value="132" />
+    <option name="width" value="1080" />
+    <option name="height" value="659" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,8 +208,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,7 +386,8 @@
       <workItem from="1564399510441" duration="2573000" />
       <workItem from="1564495177719" duration="2796000" />
       <workItem from="1564543839604" duration="75000" />
-      <workItem from="1564555253043" duration="4934000" />
+      <workItem from="1564555253043" duration="5844000" />
+      <workItem from="1564579107915" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -558,16 +550,23 @@
       <option name="project" value="LOCAL" />
       <updated>1564534782231</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="接口+实现类+接口的实现类方式">
+      <created>1564566691314</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1564566691314</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68078000" />
+    <option name="totallyTimeSpent" value="69103000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-215" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18956336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -576,7 +575,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.26534653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.26534653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -663,7 +662,8 @@
     <MESSAGE value="抽象类和抽象方法" />
     <MESSAGE value="接口" />
     <MESSAGE value="接口和类的关系" />
-    <option name="LAST_COMMIT_MESSAGE" value="接口和类的关系" />
+    <MESSAGE value="接口+实现类+接口的实现类方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口+实现类+接口的实现类方式" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -925,17 +925,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfas.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfasdf.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="133">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/TestPerson.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Fly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Interfacempl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -953,72 +977,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Interfacempl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfasdf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/TestPerson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Fly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="361">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>

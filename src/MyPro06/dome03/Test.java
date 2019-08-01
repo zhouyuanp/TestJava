@@ -10,6 +10,7 @@ package src.MyPro06.dome03;
 public class Test {
     public static void main(String[] args) {
         //接口类型（引用数据类型）指向实现类的对象
+        //指向实现类  接口名 指向接口中的方法
         Fly airPlane = new AirPlane();
         Fly bird = new Bird();
         Fly football = new FootBall();
