@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="接口+实现类+接口的实现类方式">
+    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/MethodOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/TestFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/TestMethodOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/dome04/TestStaticInner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,91 +38,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyClass.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/Outer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="297">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/MyInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/TestStaticInner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/MethodOuter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Fly.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="354">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/Father.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="297">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+              <folding>
+                <element signature="e#689#690#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Interfacempl.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/TestMethodOuter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Play.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/dome01/TestPerson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -140,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro04/StxStu.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/User.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/Point.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/TestThis.java" />
@@ -184,6 +150,14 @@
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/Face.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestOuter.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestFace.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestStaticInner.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/Outer.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestMethodOuter.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/MethodOuter.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/dome04/Father.java" />
       </list>
     </option>
   </component>
@@ -208,8 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,12 +205,14 @@
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="dome03" type="462c0819:PsiDirectoryNode" />
+              <item name="dome04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +249,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome04.Test" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.dome04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome03.Test" />
       <module name="TestJava" />
@@ -289,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro05.arrays.Test02" />
+    <configuration name="TestFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome04.TestFace" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro05.arrays.*" />
+          <option name="PATTERN" value="src.MyPro06.dome04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro05.arrays.Test03" />
+    <configuration name="TestMethodOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome04.TestMethodOuter" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro05.arrays.*" />
+          <option name="PATTERN" value="src.MyPro06.dome04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,25 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome01.TestAnimal" />
+    <configuration name="TestStaticInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome04.TestStaticInner" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.dome01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.dome01.TestPerson" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.dome01.*" />
+          <option name="PATTERN" value="src.MyPro06.dome04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.TestMethodOuter" />
+        <item itemvalue="Application.TestStaticInner" />
+        <item itemvalue="Application.TestFace" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestAnimal" />
-        <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test02" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +361,8 @@
       <workItem from="1564495177719" duration="2796000" />
       <workItem from="1564543839604" duration="75000" />
       <workItem from="1564555253043" duration="5844000" />
-      <workItem from="1564579107915" duration="115000" />
+      <workItem from="1564579107915" duration="127000" />
+      <workItem from="1564785545547" duration="6439000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -557,16 +532,23 @@
       <option name="project" value="LOCAL" />
       <updated>1564566691314</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="接口+实现类+接口的实现类方式">
+      <created>1564624931768</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1564624931768</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69103000" />
+    <option name="totallyTimeSpent" value="75554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19456366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -575,7 +557,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.26534653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.26506025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -670,51 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/User2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/User3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/User4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Deta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -956,6 +893,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Interfacempl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -967,13 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Play.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -991,10 +928,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/Play.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/Face.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/TestFace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/TestStaticInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/TestMethodOuter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/MethodOuter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome04/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
