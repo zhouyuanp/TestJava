@@ -7,11 +7,11 @@ package MyPro04.cn.sxt.oo2;
 
 public class TestEncapsulation {
     public static void main(String[] args){
-        Human h = new Human();
+        MyPro04.cn.sxt.oo2.Human h = new MyPro04.cn.sxt.oo2.Human();
         h.name = "zhouyuanpeng";
         h.height = 180;
         h.sayAge();
-        Person4 p4 = new Person4();
+        MyPro04.cn.sxt.oo2.Person4 p4 = new MyPro04.cn.sxt.oo2.Person4();
         p4.setAge(100);
         p4.setId(123);
         System.out.println(p4.getId());
@@ -21,7 +21,7 @@ public class TestEncapsulation {
     }
 }
 
-class Boy extends Human{
+class Boy extends MyPro04.cn.sxt.oo2.Human {
     void sayHello(){
        // System.out.println(age); //子类无法使用父类的私有属性和方法
     }
