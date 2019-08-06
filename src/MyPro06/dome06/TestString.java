@@ -15,6 +15,11 @@ public class TestString {
         System.out.println(str.compareTo(str4)); //-3
         //两个字符串的长度相差 5-3 = 2
         System.out.println(str.compareTo(str5)); //2
+        /**
+         * String 类的构造方法
+         * */
+        String s1 = new String(); //创建了一个长度为0的字符串
+        String s2 = null;
 
 
 
