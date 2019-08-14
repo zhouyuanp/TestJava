@@ -1,5 +1,7 @@
 package src.MyPro06.ObjectDeepening.dome01;
 
+
+
 public abstract  class Animal {  //动物的抽象类
 
     public abstract void shout(); //抽象方法
