@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="912">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -62,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
+            <state relative-caret-position="779">
               <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
               <folding>
                 <element signature="e#304#305#0" expanded="true" />
@@ -73,8 +72,6 @@
                 <element signature="e#456#457#0" expanded="true" />
                 <element signature="e#491#492#0" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
                 <element signature="e#627#628#0" expanded="true" />
                 <element signature="e#663#664#0" expanded="true" />
               </folding>
@@ -85,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -170,10 +167,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="y" value="-180" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="-3000" />
+    <option name="y" value="-214" />
+    <option name="width" value="1080" />
+    <option name="height" value="1920" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,8 +220,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,7 +398,8 @@
       <workItem from="1565617016823" duration="534000" />
       <workItem from="1565699768990" duration="12904000" />
       <workItem from="1565874318950" duration="19000" />
-      <workItem from="1566120497081" duration="4380000" />
+      <workItem from="1566120497081" duration="4415000" />
+      <workItem from="1566898100474" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -627,16 +625,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565787516167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="数组对象">
+      <created>1566130479568</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1566130479568</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115205000" />
+    <option name="totallyTimeSpent" value="115567000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
+    <frame x="-3000" y="-214" width="1080" height="1920" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16134185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21965317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -645,7 +651,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.3237624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.3237624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -712,7 +718,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试this" />
     <MESSAGE value="测试static&#10;静态方法中不能使用非静态的方法&#10;非静态方法可以使用静态的变量+静态的方法" />
     <MESSAGE value="静态初始化块的使用" />
     <MESSAGE value="测试值传递" />
@@ -737,7 +742,8 @@
     <MESSAGE value="String 常量池和构造方法" />
     <MESSAGE value="字符串相等判断" />
     <MESSAGE value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
+    <MESSAGE value="数组对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组对象" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1036,14 +1042,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="912">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="779">
           <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
           <folding>
             <element signature="e#304#305#0" expanded="true" />
@@ -1054,8 +1060,6 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
           </folding>
@@ -1064,8 +1068,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
