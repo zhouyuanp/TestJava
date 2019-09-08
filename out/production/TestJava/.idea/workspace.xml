@@ -2,9 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Interfacempl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Play.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/AirPlane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Fly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/FootBall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/ImpC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face$Nose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestFace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestMethodOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestStaticInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome05/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/TestString.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="912">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -62,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="779">
+              <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
               <folding>
                 <element signature="e#304#305#0" expanded="true" />
                 <element signature="e#331#332#0" expanded="true" />
@@ -73,8 +116,6 @@
                 <element signature="e#456#457#0" expanded="true" />
                 <element signature="e#491#492#0" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
                 <element signature="e#627#628#0" expanded="true" />
                 <element signature="e#663#664#0" expanded="true" />
               </folding>
@@ -85,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -170,10 +211,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="y" value="-180" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,8 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,7 +440,9 @@
       <workItem from="1565617016823" duration="534000" />
       <workItem from="1565699768990" duration="12904000" />
       <workItem from="1565874318950" duration="19000" />
-      <workItem from="1566120497081" duration="3652000" />
+      <workItem from="1566120497081" duration="4415000" />
+      <workItem from="1566898100474" duration="327000" />
+      <workItem from="1567334935518" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -627,17 +668,30 @@
       <option name="project" value="LOCAL" />
       <updated>1565787516167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="数组对象">
+      <created>1566130479568</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1566130479568</updated>
+    </task>
+    <task id="LOCAL-00034" summary="0">
+      <created>1567334961721</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567334961721</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114477000" />
+    <option name="totallyTimeSpent" value="115604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="-3000" y="-214" width="1080" height="1920" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16134185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22350675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -713,14 +767,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试this" />
     <MESSAGE value="测试static&#10;静态方法中不能使用非静态的方法&#10;非静态方法可以使用静态的变量+静态的方法" />
     <MESSAGE value="静态初始化块的使用" />
     <MESSAGE value="测试值传递" />
     <MESSAGE value="包的使用" />
     <MESSAGE value="import导入包的使用" />
     <MESSAGE value="super 父类对象引用和继承树追溯" />
-    <MESSAGE value="0" />
     <MESSAGE value="多态的应用" />
     <MESSAGE value="多态的类型转化&#10;ClassCastException 类型转换错误" />
     <MESSAGE value="新建包" />
@@ -738,21 +790,9 @@
     <MESSAGE value="String 常量池和构造方法" />
     <MESSAGE value="字符串相等判断" />
     <MESSAGE value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java</url>
-          <line>11</line>
-          <properties class="src.MyPro06.ArrayDeepening.ArrayObject.TestArray" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="数组对象" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1051,15 +1091,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="912">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="779">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
           <folding>
             <element signature="e#304#305#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
@@ -1069,8 +1109,6 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
           </folding>
@@ -1079,8 +1117,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

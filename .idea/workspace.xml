@@ -2,8 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Interfacempl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Play.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/AirPlane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Fly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/FootBall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/ImpC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face$Nose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestFace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestMethodOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestStaticInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome05/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/TestString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="95">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -167,10 +212,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-3000" />
-    <option name="y" value="-214" />
-    <option name="width" value="1080" />
-    <option name="height" value="1920" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,7 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,23 +248,25 @@
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectDeepening" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayObject" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="dome07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -400,6 +444,8 @@
       <workItem from="1565874318950" duration="19000" />
       <workItem from="1566120497081" duration="4415000" />
       <workItem from="1566898100474" duration="327000" />
+      <workItem from="1567334935518" duration="37000" />
+      <workItem from="1567946806869" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -632,17 +678,23 @@
       <option name="project" value="LOCAL" />
       <updated>1566130479568</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="0">
+      <created>1567334961721</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567334961721</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115567000" />
+    <option name="totallyTimeSpent" value="115763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3000" y="-214" width="1080" height="1920" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21965317" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16881259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -651,7 +703,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.3237624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.32289156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -724,7 +776,6 @@
     <MESSAGE value="包的使用" />
     <MESSAGE value="import导入包的使用" />
     <MESSAGE value="super 父类对象引用和继承树追溯" />
-    <MESSAGE value="0" />
     <MESSAGE value="多态的应用" />
     <MESSAGE value="多态的类型转化&#10;ClassCastException 类型转换错误" />
     <MESSAGE value="新建包" />
@@ -743,7 +794,8 @@
     <MESSAGE value="字符串相等判断" />
     <MESSAGE value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
     <MESSAGE value="数组对象" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组对象" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1068,8 +1120,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="95">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
