@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="54">
               <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding>
                 <element signature="e#304#305#0" expanded="true" />
@@ -61,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="81">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -70,17 +63,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="135">
               <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="54">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -103,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/TestEncapsulation2.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4Encapsulation.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestEncapsulation.java" />
@@ -154,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" />
       </list>
     </option>
   </component>
@@ -163,7 +165,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1366" />
     <option name="height" value="768" />
   </component>
@@ -176,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,10 +204,19 @@
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
               <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="dome010" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,9 +256,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesrArrayCopy">
+  <component name="RunManager" selected="Application.TesrArrayCopy2">
     <configuration name="TesrArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TesrArrayCopy" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesrArrayCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TesrArrayCopy2" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
@@ -266,19 +289,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.MyPro06.ArrayDeepening.ArrayObject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome089.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesrArrayCopy2" />
         <item itemvalue="Application.TesrArrayCopy" />
         <item itemvalue="Application.TestArray (1)" />
         <item itemvalue="Application.TestArray3" />
         <item itemvalue="Application.TestArray2" />
-        <item itemvalue="Application.TestArray" />
       </list>
     </recent_temporary>
   </component>
@@ -374,6 +384,9 @@
       <workItem from="1565874318950" duration="19000" />
       <workItem from="1566120497081" duration="4380000" />
       <workItem from="1567946190292" duration="3006000" />
+      <workItem from="1567951575227" duration="3126000" />
+      <workItem from="1567955154419" duration="29000" />
+      <workItem from="1568039670216" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -599,16 +612,30 @@
       <option name="project" value="LOCAL" />
       <updated>1565787516167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="数组copy引用拷贝">
+      <created>1567951666455</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1567951666456</updated>
+    </task>
+    <task id="LOCAL-00034" summary="拷贝元素">
+      <created>1567955104767</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567955104767</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118404000" />
+    <option name="totallyTimeSpent" value="121819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18759571" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -617,7 +644,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.2318612" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.36885247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -684,8 +711,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试this" />
-    <MESSAGE value="测试static&#10;静态方法中不能使用非静态的方法&#10;非静态方法可以使用静态的变量+静态的方法" />
     <MESSAGE value="静态初始化块的使用" />
     <MESSAGE value="测试值传递" />
     <MESSAGE value="包的使用" />
@@ -709,14 +734,15 @@
     <MESSAGE value="String 常量池和构造方法" />
     <MESSAGE value="字符串相等判断" />
     <MESSAGE value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
+    <MESSAGE value="数组copy引用拷贝" />
+    <MESSAGE value="拷贝元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="拷贝元素" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestEncapsulation.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -1001,7 +1027,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="54">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding>
             <element signature="e#304#305#0" expanded="true" />
@@ -1020,22 +1046,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="81">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="135">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="54">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
