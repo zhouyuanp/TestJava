@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="135">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -107,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4Encapsulation.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestEncapsulation.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestPolym.java" />
@@ -158,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" />
       </list>
     </option>
   </component>
@@ -258,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesrArrayCopy2">
+  <component name="RunManager" selected="Application.TestArrayCopy3">
     <configuration name="TesrArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TesrArrayCopy" />
       <module name="TestJava" />
@@ -298,19 +306,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray2" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome089.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray3" />
       <module name="TestJava" />
@@ -324,13 +319,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestArrayCopy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TestArrayCopy3" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestArrayCopy3" />
         <item itemvalue="Application.TesrArrayCopy2" />
         <item itemvalue="Application.TesrArrayCopy" />
         <item itemvalue="Application.TestArray (1)" />
         <item itemvalue="Application.TestArray3" />
-        <item itemvalue="Application.TestArray2" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +396,7 @@
       <workItem from="1567946190292" duration="3006000" />
       <workItem from="1567951575227" duration="3126000" />
       <workItem from="1567955154419" duration="29000" />
-      <workItem from="1568039670216" duration="1429000" />
+      <workItem from="1568039670216" duration="3224000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -628,11 +636,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567955104767</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="拷贝元素">
+      <created>1568041117155</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1568041117156</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122988000" />
+    <option name="totallyTimeSpent" value="124783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -646,20 +661,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.36885247" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.2409836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4977307" visible="true" weight="0.27868852" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4977307" weight="0.27868852" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50226927" side_tool="true" weight="0.27868852" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.20120482" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.3290469" />
@@ -745,13 +760,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestPolym.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
@@ -1069,8 +1077,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="135">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
