@@ -2,53 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ArrayDeepening/dome01/TestArray3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestAnimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome01/TestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Interfacempl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/MyInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Play.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome02/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/AirPlane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Bird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Fly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/FootBall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/ImpC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/InterfaceC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome03/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face$Nose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Face.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter$1Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/MethodOuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer$Inner2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Son.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestFace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestMethodOuter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome04/TestStaticInner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome05/TestString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome06/TestString02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestJava/src/MyPro06/ObjectDeepening/dome07/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,67 +35,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
-              <folding>
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -151,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Human.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/TestEncapsulation2.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4Encapsulation.java" />
         <option value="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/Person4.java" />
@@ -202,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" />
       </list>
     </option>
   </component>
@@ -211,9 +111,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -248,15 +148,15 @@
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="ObjectDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="ObjectDeepening" type="462c0819:PsiDirectoryNode" />
-              <item name="dome07" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="dome010" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +181,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -303,7 +203,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestArray (1)">
+  <component name="RunManager" selected="Application.TesrArrayCopy">
+    <configuration name="TesrArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TesrArrayCopy" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.ArrayObject.TestArray" />
       <module name="TestJava" />
@@ -318,11 +231,11 @@
       </method>
     </configuration>
     <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome01.TestArray" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome01.*" />
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome089.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +244,11 @@
       </method>
     </configuration>
     <configuration name="TestArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome01.TestArray2" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray2" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome01.*" />
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome089.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,37 +257,11 @@
       </method>
     </configuration>
     <configuration name="TestArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome01.TestArray3" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome089.TestArray3" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ObjectDeepening.dome07.TestString" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.ObjectDeepening.dome07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ObjectDeepening.dome07.TestString" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.ObjectDeepening.dome07.*" />
+          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome089.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesrArrayCopy" />
         <item itemvalue="Application.TestArray (1)" />
         <item itemvalue="Application.TestArray3" />
         <item itemvalue="Application.TestArray2" />
         <item itemvalue="Application.TestArray" />
-        <item itemvalue="Application.TestString (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -442,10 +329,8 @@
       <workItem from="1565617016823" duration="534000" />
       <workItem from="1565699768990" duration="12904000" />
       <workItem from="1565874318950" duration="19000" />
-      <workItem from="1566120497081" duration="4415000" />
-      <workItem from="1566898100474" duration="327000" />
-      <workItem from="1567334935518" duration="37000" />
-      <workItem from="1567946806869" duration="159000" />
+      <workItem from="1566120497081" duration="4380000" />
+      <workItem from="1567946190292" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -689,12 +574,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115763000" />
+    <option name="totallyTimeSpent" value="118404000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16881259" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -703,25 +588,25 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.32289156" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.2318612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.27951807" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4977307" weight="0.27868852" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5018208" side_tool="true" weight="0.25827813" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50226927" side_tool="true" weight="0.27868852" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.20120482" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3290469" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3290469" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -770,12 +655,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试this" />
     <MESSAGE value="测试static&#10;静态方法中不能使用非静态的方法&#10;非静态方法可以使用静态的变量+静态的方法" />
     <MESSAGE value="静态初始化块的使用" />
     <MESSAGE value="测试值传递" />
     <MESSAGE value="包的使用" />
     <MESSAGE value="import导入包的使用" />
     <MESSAGE value="super 父类对象引用和继承树追溯" />
+    <MESSAGE value="0" />
     <MESSAGE value="多态的应用" />
     <MESSAGE value="多态的类型转化&#10;ClassCastException 类型转换错误" />
     <MESSAGE value="新建包" />
@@ -802,7 +689,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro05/cn.sxt.arrays/MyPro05/cn/sxt/arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestEncapsulation.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1047,20 +933,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-683">
@@ -1078,21 +951,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray2.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="50" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray3.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
@@ -1101,8 +974,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+        <state>
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding>
             <element signature="e#304#305#0" expanded="true" />
             <element signature="e#331#332#0" expanded="true" />
@@ -1112,16 +985,32 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="-8">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
