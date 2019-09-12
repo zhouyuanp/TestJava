@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,22 +36,22 @@
     <favorites_list name="TestJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -146,9 +147,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,15 +193,23 @@
               <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
               <item name="dome010" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayDeepening" type="462c0819:PsiDirectoryNode" />
+              <item name="dome089" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -238,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesrArrayCopy2">
+  <component name="RunManager" selected="Application.TestArrayCopy3">
     <configuration name="TesrArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome010.TesrArrayCopy" />
       <module name="TestJava" />
@@ -306,9 +314,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestArrayCopy3" />
         <item itemvalue="Application.TesrArrayCopy2" />
         <item itemvalue="Application.TesrArrayCopy" />
-        <item itemvalue="Application.TestArrayCopy3" />
         <item itemvalue="Application.TestArray (1)" />
         <item itemvalue="Application.TestArray3" />
       </list>
@@ -615,41 +623,38 @@
       <option name="project" value="LOCAL" />
       <updated>1568041117156</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="System中方法">
+      <created>1568043089266</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1568043089266</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124881000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="127552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" sideWeight="0.5009901" side_tool="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5009901" side_tool="true" weight="0.24973376" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.24059406" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.2409836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4977307" weight="0.27821782" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4977307" weight="0.27868852" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50226927" side_tool="true" weight="0.27868852" />
@@ -735,13 +740,21 @@
     <MESSAGE value="一维数组&#10;二维数组的初始化&#10;二维数组的遍历" />
     <MESSAGE value="数组copy引用拷贝" />
     <MESSAGE value="拷贝元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="拷贝元素" />
+    <MESSAGE value="System中方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="System中方法" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo2/TestPolym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="41" column="1" selection-start-line="37" selection-start-column="12" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/teat01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1005,8 +1018,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/TestArray3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="545">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1023,8 +1036,6 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
           </folding>
@@ -1045,16 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1065,7 +1066,14 @@
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
