@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,25 +42,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="99" column="4" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+            <state relative-caret-position="368">
+              <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
               <folding>
-                <element signature="e#1442#1443#0" expanded="true" />
-                <element signature="e#1469#1470#0" expanded="true" />
-                <element signature="e#1509#1510#0" expanded="true" />
-                <element signature="e#1541#1542#0" expanded="true" />
-                <element signature="e#1568#1569#0" expanded="true" />
-                <element signature="e#1594#1595#0" expanded="true" />
-                <element signature="e#1629#1630#0" expanded="true" />
-                <element signature="e#1659#1660#0" expanded="true" />
-                <element signature="e#1692#1693#0" expanded="true" />
-                <element signature="e#1721#1722#0" expanded="true" />
-                <element signature="e#1765#1766#0" expanded="true" />
-                <element signature="e#1801#1802#0" expanded="true" />
-                <element signature="e#1847#1848#0" expanded="true" />
-                <element signature="e#1879#1880#0" expanded="true" />
-                <element signature="e#1909#1910#0" expanded="true" />
-                <element signature="e#1939#1940#0" expanded="true" />
+                <element signature="e#1877#1878#0" expanded="true" />
+                <element signature="e#1904#1905#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+                <element signature="e#1976#1977#0" expanded="true" />
+                <element signature="e#2003#2004#0" expanded="true" />
+                <element signature="e#2029#2030#0" expanded="true" />
+                <element signature="e#2064#2065#0" expanded="true" />
+                <element signature="e#2094#2095#0" expanded="true" />
+                <element signature="e#2127#2128#0" expanded="true" />
+                <element signature="e#2156#2157#0" expanded="true" />
+                <element signature="e#2200#2201#0" expanded="true" />
+                <element signature="e#2236#2237#0" expanded="true" />
+                <element signature="e#2281#2282#0" expanded="true" />
+                <element signature="e#2313#2314#0" expanded="true" />
+                <element signature="e#2343#2344#0" expanded="true" />
+                <element signature="e#2373#2374#0" expanded="true" />
+                <element signature="e#2630#2631#0" expanded="true" />
+                <element signature="e#2678#2679#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="135">
               <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
@@ -112,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -208,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -263,6 +262,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -435,7 +435,8 @@
       <workItem from="1568039670216" duration="3224000" />
       <workItem from="1570173211846" duration="616000" />
       <workItem from="1570631457703" duration="4326000" />
-      <workItem from="1570638405574" duration="4137000" />
+      <workItem from="1570638405574" duration="4209000" />
+      <workItem from="1570719848485" duration="4558000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -696,17 +697,23 @@
       <option name="project" value="LOCAL" />
       <updated>1568274992150</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Arrays">
+      <created>1570669269458</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1570669269458</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136694000" />
+    <option name="totallyTimeSpent" value="141324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -715,7 +722,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.24262296" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.04918033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -782,7 +789,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试值传递" />
     <MESSAGE value="包的使用" />
     <MESSAGE value="import导入包的使用" />
     <MESSAGE value="super 父类对象引用和继承树追溯" />
@@ -808,7 +814,8 @@
     <MESSAGE value="拷贝元素" />
     <MESSAGE value="System中方法" />
     <MESSAGE value="arraycopy" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraycopy" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1098,6 +1105,13 @@
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3348">
@@ -1116,16 +1130,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="135">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
@@ -1133,31 +1140,33 @@
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="99" column="4" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        <state relative-caret-position="368">
+          <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
           <folding>
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1469#1470#0" expanded="true" />
-            <element signature="e#1509#1510#0" expanded="true" />
-            <element signature="e#1541#1542#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-            <element signature="e#1629#1630#0" expanded="true" />
-            <element signature="e#1659#1660#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1765#1766#0" expanded="true" />
-            <element signature="e#1801#1802#0" expanded="true" />
-            <element signature="e#1847#1848#0" expanded="true" />
-            <element signature="e#1879#1880#0" expanded="true" />
-            <element signature="e#1909#1910#0" expanded="true" />
-            <element signature="e#1939#1940#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+            <element signature="e#1904#1905#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+            <element signature="e#1976#1977#0" expanded="true" />
+            <element signature="e#2003#2004#0" expanded="true" />
+            <element signature="e#2029#2030#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2094#2095#0" expanded="true" />
+            <element signature="e#2127#2128#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2200#2201#0" expanded="true" />
+            <element signature="e#2236#2237#0" expanded="true" />
+            <element signature="e#2281#2282#0" expanded="true" />
+            <element signature="e#2313#2314#0" expanded="true" />
+            <element signature="e#2343#2344#0" expanded="true" />
+            <element signature="e#2373#2374#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2678#2679#0" expanded="true" />
           </folding>
         </state>
       </provider>
