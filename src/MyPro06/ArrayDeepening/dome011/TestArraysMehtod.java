@@ -39,17 +39,21 @@ public class TestArraysMehtod {
         System.out.println(Arrays.toString(arrA));
 
         //对对象进行排序
-
-
-
-
-
-
-
+        //创建一个Person类型的数组,用于存储3个Person类型的对象
+        Person [] pers = new Person[3];
+        pers[0] = new Person("baishikele",20,"女");
+        pers[1] = new Person("kekoukele",20,"男");
+        pers[2] = new Person("fenda",18,"女");
+        //调用sort方法,对Person类型的数组进行排序
+        Arrays.sort(pers);  //类型转换异常,需要指定排序规则
+        //遍历数组
+        for (Person p:pers){
+            System.out.println(p);
+        }
     }
 
 }
-class Person{
+class Person implements Comparable<Person>{
     private String name;
     private int age;
     private String gender;
@@ -97,5 +101,15 @@ class Person{
         this.age = age;
         this.gender = gender;
     }
+    //重写toString 方法
+    @Override
+    public String toString() {
+        return name+"\t"+age+"\t"+gender;
+    }
 
+    @Override
+    public int compareTo(Person o) { //大于正数,小于负数,等于0
+
+        return this.age-o.age;
+    }
 }
