@@ -1,6 +1,6 @@
 package src.MyPro06.ObjectDeepening.dome01;
 
-import src.MyPro06.ObjectDeepening.dome01.Person;
+
 
 public  class Student extends Person {
 

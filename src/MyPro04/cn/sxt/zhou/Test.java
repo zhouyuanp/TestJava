@@ -1,7 +1,9 @@
-package MyPro04.cn.sxt.zhou;
+package src.MyPro04.cn.sxt.zhou;
 
 //import MyPro04.User; //表示导入了User 类
-import MyPro04.cn.sxt.oo.*;// *表示导入oo下的所有的类
+import src.MyPro04.cn.sxt.oo.*;// *表示导入oo下的所有的类
+import src.MyPro04.cn.sxt.oo.User;
+
 import java.util.Date;
 //import java.sql.Date;
 import static java.lang.Math.*;

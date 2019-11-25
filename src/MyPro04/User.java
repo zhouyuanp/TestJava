@@ -1,4 +1,4 @@
-package MyPro04;
+package src.MyPro04;
 
 /***
  * 测试方法的重载

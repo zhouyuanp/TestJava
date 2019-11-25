@@ -1,4 +1,4 @@
-package MyPro04.cn.sxt.oo;
+package src.MyPro04.cn.sxt.oo;
 
 import MyPro04.cn.sxt.oo2.Human;
 

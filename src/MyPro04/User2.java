@@ -1,4 +1,4 @@
-package MyPro04;
+package src.MyPro04;
 
 /***
  *  测试static 关键字的用法
