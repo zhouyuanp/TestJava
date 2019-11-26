@@ -18,5 +18,6 @@ public class Test {
         int numB = input.nextInt();
         int result = numA/numB;
         System.out.println(numA+"/"+numB+"="+result);
+
     }
 }

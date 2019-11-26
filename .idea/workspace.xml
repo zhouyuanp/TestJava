@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="arraycopy">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome012/TestBubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome013/TestBubbleOptimize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome014/TestBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome089/UseVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/StxStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/StxStu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/TestThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/TestThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/User2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/User3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/User3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/User4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/User4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/TestEncapsulation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/TestEncapsulation2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Deta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Deta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome02/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome014/TestBinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
+            <state relative-caret-position="304">
               <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
@@ -66,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -235,6 +216,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,8 +260,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,6 +442,9 @@
       <workItem from="1574343441691" duration="3472000" />
       <workItem from="1574348178242" duration="47000" />
       <workItem from="1574480470084" duration="1348000" />
+      <workItem from="1574687387374" duration="203000" />
+      <workItem from="1574771427470" duration="136000" />
+      <workItem from="1574771566940" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -721,17 +705,23 @@
       <option name="project" value="LOCAL" />
       <updated>1568274992150</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="测试二分法">
+      <created>1574687419400</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1574687419400</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136694000" />
+    <option name="totallyTimeSpent" value="136873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -740,7 +730,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.24262296" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.24262296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -807,7 +797,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试值传递" />
     <MESSAGE value="包的使用" />
     <MESSAGE value="import导入包的使用" />
     <MESSAGE value="super 父类对象引用和继承树追溯" />
@@ -833,53 +822,14 @@
     <MESSAGE value="拷贝元素" />
     <MESSAGE value="System中方法" />
     <MESSAGE value="arraycopy" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraycopy" />
+    <MESSAGE value="测试二分法" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试二分法" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro05/arrays/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro05/arrays/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro05/arrays/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="22" column="40" selection-start-line="22" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/TestAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome02/I.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/org/apache/http/examples/client/ClientConnectionRelease.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfas.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/asdfasdf.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java" />
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome03/InterfaceA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1123,24 +1073,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3348">
-          <caret line="147" column="32" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="32" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115101">
-          <caret line="4350" column="24" selection-start-line="4350" selection-start-column="24" selection-end-line="4350" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/ArrayObject/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1184,6 +1118,76 @@
             <element signature="e#1909#1910#0" expanded="true" />
             <element signature="e#1939#1940#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome014/TestBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro05/arrays/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/TestEncapsulation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/StxStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/User3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/zhou/Deta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
