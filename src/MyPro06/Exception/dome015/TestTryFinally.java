@@ -1,4 +1,4 @@
-package src.MyPro06.Exception.dome0151;
+package src.MyPro06.Exception.dome015;
 import java.util.Scanner;
 /**
  * @program: TestJava
