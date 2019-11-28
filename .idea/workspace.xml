@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome017/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/Exception/dome017/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrows.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,37 +37,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/TestTryFinally.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="95">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="456">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/Father.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="212">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="76">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/InterfaceA.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/asdfasdf.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/qwerqwe.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/Fly.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome03/Test.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome04/Face.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestOuter.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestFace.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestStaticInner.java" />
@@ -192,6 +196,12 @@
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome015/Test.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome016/TestTryFinally.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome017/test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrows.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome017/Father.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrow.java" />
       </list>
     </option>
   </component>
@@ -215,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -252,15 +263,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
               <item name="Exception" type="462c0819:PsiDirectoryNode" />
-              <item name="dome015" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="Exception" type="462c0819:PsiDirectoryNode" />
-              <item name="dome016" type="462c0819:PsiDirectoryNode" />
+              <item name="dome017" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +276,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTryCatchFinally">
+  <component name="RunManager" selected="Application.TestThrow">
     <configuration name="TestBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome014.TestBinarySearch" />
       <module name="TestJava" />
@@ -327,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBubbleOptimize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.ArrayDeepening.dome013.TestBubbleOptimize" />
+    <configuration name="TestThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome017.TestThrow" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.ArrayDeepening.dome013.*" />
+          <option name="PATTERN" value="src.MyPro06.Exception.dome017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThrow" />
         <item itemvalue="Application.TestTryCatchFinally" />
         <item itemvalue="Application.TestTryFinally" />
         <item itemvalue="Application.TestTryCatch" />
         <item itemvalue="Application.TestBinarySearch" />
-        <item itemvalue="Application.TestBubbleOptimize" />
       </list>
     </recent_temporary>
   </component>
@@ -463,6 +465,8 @@
       <workItem from="1574825145963" duration="789000" />
       <workItem from="1574920366395" duration="363000" />
       <workItem from="1574924468809" duration="235000" />
+      <workItem from="1574926650031" duration="240000" />
+      <workItem from="1574939210333" duration="3514000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -744,17 +748,30 @@
       <option name="project" value="LOCAL" />
       <updated>1574825375639</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="修改文件夹">
+      <created>1574926720528</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1574926720528</updated>
+    </task>
+    <task id="LOCAL-00042" summary="017">
+      <created>1574926828739</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1574926828739</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141471000" />
+    <option name="totallyTimeSpent" value="145225000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19027181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -763,13 +780,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.53770494" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.2522293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49642345" visible="true" weight="0.277707" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49642345" weight="0.1133758" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035765" side_tool="true" weight="0.277707" />
@@ -830,7 +847,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="super 父类对象引用和继承树追溯" />
     <MESSAGE value="0" />
     <MESSAGE value="多态的应用" />
     <MESSAGE value="多态的类型转化&#10;ClassCastException 类型转换错误" />
@@ -855,34 +871,14 @@
     <MESSAGE value="arraycopy" />
     <MESSAGE value="测试二分法" />
     <MESSAGE value="修改文件夹" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件夹" />
+    <MESSAGE value="017" />
+    <option name="LAST_COMMIT_MESSAGE" value="017" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/TestPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome04/Face.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome04/TestFace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyPro04/cn/sxt/oo2/TestEncapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1147,6 +1143,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java" />
     <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1154,17 +1151,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/TestTryCatchFinally.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/TestTryFinally.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="95">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1210,10 +1207,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="456">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome017/TestThrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
