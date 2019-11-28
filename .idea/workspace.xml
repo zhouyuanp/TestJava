@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/Exception/dome0151/TestTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/Exception/dome0151/TestTryCatchFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/Exception/dome0151/TestTryFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="209">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -49,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="209">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -59,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -67,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="57">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -206,8 +202,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+    <option name="y" value="23" />
+    <option name="width" value="1367" />
+    <option name="height" value="770" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -218,6 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,6 +252,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
               <item name="Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="dome015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
               <item name="dome016" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,7 +273,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -340,7 +345,7 @@
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome015.*" />
+          <option name="PATTERN" value="src.MyPro06.Exception.dome016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,11 +354,11 @@
       </method>
     </configuration>
     <configuration name="TestTryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome015.TestTryCatchFinally" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome016.TestTryCatchFinally" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome015.*" />
+          <option name="PATTERN" value="src.MyPro06.Exception.dome016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +367,11 @@
       </method>
     </configuration>
     <configuration name="TestTryFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome015.TestTryFinally" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome016.TestTryFinally" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome015.*" />
+          <option name="PATTERN" value="src.MyPro06.Exception.dome016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,6 +461,8 @@
       <workItem from="1574771566940" duration="23000" />
       <workItem from="1574773939145" duration="3134000" />
       <workItem from="1574825145963" duration="789000" />
+      <workItem from="1574920366395" duration="363000" />
+      <workItem from="1574924468809" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -741,13 +748,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140873000" />
+    <option name="totallyTimeSpent" value="141471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="1" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1140,6 +1147,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro04/cn/sxt/oo/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1182,31 +1210,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryCatchFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome015/TestTryFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome016/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="57">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
