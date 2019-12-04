@@ -84,11 +84,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome019/TestSexException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="171">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -116,8 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro06/dome04/TestMethodOuter.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome04/MethodOuter.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome04/Father.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome05/TestString.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome06/TestString.java" />
@@ -167,6 +183,8 @@
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome018/TestCheckedException.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome019/SexException.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome019/TestSexException.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" />
       </list>
     </option>
   </component>
@@ -214,13 +232,6 @@
               <item name="TestJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -425,7 +436,8 @@
       <workItem from="1575345306210" duration="2101000" />
       <workItem from="1575360467086" duration="68000" />
       <workItem from="1575425189442" duration="702000" />
-      <workItem from="1575441722535" duration="245000" />
+      <workItem from="1575441722535" duration="584000" />
+      <workItem from="1575453506631" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="类 方法 对象">
       <created>1558919171714</created>
@@ -749,16 +761,37 @@
       <option name="project" value="LOCAL" />
       <updated>1575425766999</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="常用类">
+      <created>1575441989023</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1575441989023</updated>
+    </task>
+    <task id="LOCAL-00048" summary="测试包装常用类">
+      <created>1575442092954</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1575442092954</updated>
+    </task>
+    <task id="LOCAL-00049" summary="测试自动装箱和拆箱">
+      <created>1575442194550</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1575442194550</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153159000" />
+    <option name="totallyTimeSpent" value="153613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.2067239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.20958512" />
       <window_info id="Structure" order="1" sideWeight="0.5025554" side_tool="true" weight="0.1981402" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -834,9 +867,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新建包" />
-    <MESSAGE value="数组声明 初始化 遍历" />
-    <MESSAGE value="三种数组初始化方式" />
     <MESSAGE value="commit到本地" />
     <MESSAGE value="foreach 循环；用于读取数组元素的值，不能修改元素的值" />
     <MESSAGE value="抽象类和抽象方法" />
@@ -859,27 +889,16 @@
     <MESSAGE value="测试异常" />
     <MESSAGE value="常见的异常类型" />
     <MESSAGE value="自定义异常" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义异常" />
+    <MESSAGE value="常用类" />
+    <MESSAGE value="测试包装常用类" />
+    <MESSAGE value="测试自动装箱和拆箱" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试自动装箱和拆箱" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome04/MethodOuter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome04/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome05/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1216,8 +1235,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/Exception/dome019/TestSexException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="171">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
