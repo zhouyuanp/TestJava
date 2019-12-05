@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,10 +106,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="330">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -134,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro06/dome04/Father.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome05/TestString.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome06/TestString.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/dome06/TestString02.java" />
@@ -185,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome019/TestSexException.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java" />
       </list>
     </option>
   </component>
@@ -233,6 +236,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
+              <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
+              <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="dome21" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -276,7 +294,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSexException">
+  <component name="RunManager" selected="Application.TestInteger">
+    <configuration name="TestInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome21.TestInteger" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome018.TestRuntimeException" />
       <module name="TestJava" />
@@ -303,19 +334,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome017.TestThrow" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome017.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestTryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome016.TestTryCatchFinally" />
       <module name="TestJava" />
@@ -329,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTryFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome016.TestTryFinally" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome21.test" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome016.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestInteger" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.TestSexException" />
         <item itemvalue="Application.TestRuntimeException" />
         <item itemvalue="Application.TestTryCatchFinally" />
-        <item itemvalue="Application.TestThrow" />
-        <item itemvalue="Application.TestTryFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -438,13 +456,8 @@
       <workItem from="1575425189442" duration="702000" />
       <workItem from="1575441722535" duration="584000" />
       <workItem from="1575453506631" duration="115000" />
-    </task>
-    <task id="LOCAL-00001" summary="类 方法 对象">
-      <created>1558919171714</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1558919171714</updated>
+      <workItem from="1575453646817" duration="44000" />
+      <workItem from="1575523686490" duration="1999000" />
     </task>
     <task id="LOCAL-00002" summary="构造方法+构造方法重载">
       <created>1558972000105</created>
@@ -782,16 +795,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575442194550</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="测试自动装箱和拆箱">
+      <created>1575453658137</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1575453658137</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153613000" />
+    <option name="totallyTimeSpent" value="155656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.20958512" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" sideWeight="0.5025554" side_tool="true" weight="0.1981402" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -800,8 +821,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" weight="0.2522293" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25742576" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.2522293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3732484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1247,10 +1268,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="330">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
         </state>
       </provider>
     </entry>
