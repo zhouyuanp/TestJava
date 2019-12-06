@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestAutoBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestUnBoxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/TestInteger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,20 +98,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestAutoBoxing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="285">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestUnBoxing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/TestInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -137,10 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro06/dome05/TestString.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome06/TestString.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome06/TestString02.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/dome07/TestString.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome01/Animal.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome01/TestArray2.java" />
@@ -186,8 +202,12 @@
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome019/SexException.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/Exception/dome019/TestSexException.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/test.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/TestInteger.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestUnBoxing.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestAutoBoxing.java" />
       </list>
     </option>
   </component>
@@ -197,10 +217,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -211,8 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +273,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,13 +314,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestInteger">
+  <component name="RunManager" selected="Application.TestUnBoxing">
     <configuration name="TestInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome21.TestInteger" />
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome20.TestInteger" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome21.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.Exception.dome016.TestTryCatchFinally" />
+    <configuration name="TestUnBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome21.TestUnBoxing" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.Exception.dome016.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,7 +372,7 @@
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome21.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestInteger" />
+        <item itemvalue="Application.TestUnBoxing" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.TestInteger" />
         <item itemvalue="Application.TestSexException" />
         <item itemvalue="Application.TestRuntimeException" />
-        <item itemvalue="Application.TestTryCatchFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -457,14 +477,8 @@
       <workItem from="1575441722535" duration="584000" />
       <workItem from="1575453506631" duration="115000" />
       <workItem from="1575453646817" duration="44000" />
-      <workItem from="1575523686490" duration="1999000" />
-    </task>
-    <task id="LOCAL-00002" summary="构造方法+构造方法重载">
-      <created>1558972000105</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1558972000105</updated>
+      <workItem from="1575523686490" duration="2230000" />
+      <workItem from="1575599124677" duration="2564000" />
     </task>
     <task id="LOCAL-00003" summary="测试this">
       <created>1559437390831</created>
@@ -802,17 +816,24 @@
       <option name="project" value="LOCAL" />
       <updated>1575453658137</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="测试自动装箱和拆箱+各个类型之间的转换">
+      <created>1575525902160</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1575525902161</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155656000" />
+    <option name="totallyTimeSpent" value="158451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.21530758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.16240682" />
       <window_info id="Structure" order="1" sideWeight="0.5025554" side_tool="true" weight="0.1981402" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -821,7 +842,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.2522293" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.25049505" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3732484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -831,7 +852,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035765" side_tool="true" weight="0.277707" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.20120482" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2009901" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -888,7 +909,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit到本地" />
     <MESSAGE value="foreach 循环；用于读取数组元素的值，不能修改元素的值" />
     <MESSAGE value="抽象类和抽象方法" />
     <MESSAGE value="接口" />
@@ -913,27 +933,14 @@
     <MESSAGE value="常用类" />
     <MESSAGE value="测试包装常用类" />
     <MESSAGE value="测试自动装箱和拆箱" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试自动装箱和拆箱" />
+    <MESSAGE value="测试自动装箱和拆箱+各个类型之间的转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试自动装箱和拆箱+各个类型之间的转换" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome05/TestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome06/TestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome07/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1261,17 +1268,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/test.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome20/TestInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="513">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestInteger.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        <state relative-caret-position="233">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestUnBoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestAutoBoxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,8 @@
-package src.MyPro06.CommonClasses.dome21;
+package src.MyPro06.CommonClasses.dome20;
 
 /**
  * @program: TestJava
- * @description: 测试自动装箱和拆箱+各个类型之间的转换
+ * @description: 各个类型之间的转换+测试常用包装类
  * @author: zhouyuanpeng
  * Created by  2019-12-04 14:48
  */
