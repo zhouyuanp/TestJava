@@ -11,7 +11,7 @@ public class TestAutoBoxing {
     public static void main(String[] args) {
         // 对象范围在 -128到127 之间就不再开辟新的空间，在缓存数组中找
 
-        Integer a = 100; //自动装箱
+        Integer a = 100; //自动装箱q
         //相当于
         Integer a1 = Integer.valueOf(100);
         Integer b = 100;
