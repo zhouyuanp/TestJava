@@ -1,6 +1,5 @@
 package src.MyPro06.CommonClasses.dome23;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
 
 /**
  * @program: TestJava
@@ -30,8 +29,6 @@ public class TestStringBuffer {
         System.out.println("容量" + sb2.capacity() + "\t sb2 的长度" + sb2.length());
 
         System.out.println("------------------------");
-
-
 
         //字符串的追加
         sb.append("hello");
