@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="513">
               <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
             </state>
           </provider>
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="745">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -227,9 +225,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,6 +238,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,19 +264,10 @@
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
               <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
-              <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
-              <item name="dome24" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.TestDate">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome24.Test" />
       <module name="TestJava" />
@@ -332,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome22.Test" />
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome25.TestDate" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome22.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDate" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.TestStringBuffer" />
         <item itemvalue="Application.TestStringBuilder2" />
         <item itemvalue="Application.TestStringBuilder" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -487,14 +476,9 @@
       <workItem from="1576221969754" duration="1498000" />
       <workItem from="1576238403681" duration="2558000" />
       <workItem from="1576496416674" duration="167000" />
-      <workItem from="1577105342558" duration="409000" />
-    </task>
-    <task id="LOCAL-00006" summary="测试值传递">
-      <created>1559609365796</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1559609365797</updated>
+      <workItem from="1577105342558" duration="1089000" />
+      <workItem from="1577360953663" duration="112000" />
+      <workItem from="1577617333180" duration="335000" />
     </task>
     <task id="LOCAL-00007" summary="包的使用">
       <created>1560300333437</created>
@@ -832,17 +816,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576496557520</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="测试不可变字符序列和可变字符系列使用陷阱">
+      <created>1577106375884</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1577106375885</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163571000" />
+    <option name="totallyTimeSpent" value="164698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58784676" visible="true" weight="0.17039403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58784676" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" sideWeight="0.41215324" side_tool="true" weight="0.16719915" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -861,7 +851,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035765" side_tool="true" weight="0.277707" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.2009901" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2009901" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24920128" />
@@ -918,7 +908,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="抽象类和抽象方法" />
     <MESSAGE value="接口" />
     <MESSAGE value="接口和类的关系" />
     <MESSAGE value="接口+实现类+接口的实现类方式" />
@@ -943,7 +932,8 @@
     <MESSAGE value="测试自动装箱和拆箱+各个类型之间的转换" />
     <MESSAGE value="测试自动装箱和拆箱" />
     <MESSAGE value="测试StringBuilder、StringBuffer的常用方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试StringBuilder、StringBuffer的常用方法" />
+    <MESSAGE value="测试不可变字符序列和可变字符系列使用陷阱" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试不可变字符序列和可变字符系列使用陷阱" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1263,6 +1253,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
@@ -1309,17 +1306,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="745">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>

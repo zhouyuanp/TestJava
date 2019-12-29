@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509ed38a-1ee6-4a27-94e1-869bef812343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome25/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome26/TestDateFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestJava/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -36,24 +37,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome21/TestUnBoxing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome22/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -74,17 +57,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="513">
               <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="745">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome25/TestDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome26/TestDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,8 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy2.java" />
-        <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TestArrayCopy3.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome010/TesrArrayCopy.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ArrayDeepening/dome011/TestArraysMehtod.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome07/TestString.java" />
@@ -217,6 +219,8 @@
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuilder2.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java" />
         <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome25/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/MyPro06/CommonClasses/dome26/TestDateFormat.java" />
       </list>
     </option>
   </component>
@@ -227,9 +231,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,6 +244,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,13 +276,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MyPro06" type="462c0819:PsiDirectoryNode" />
               <item name="CommonClasses" type="462c0819:PsiDirectoryNode" />
-              <item name="dome24" type="462c0819:PsiDirectoryNode" />
+              <item name="dome26" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.TestDateFormat">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome24.Test" />
       <module name="TestJava" />
@@ -332,12 +335,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome22.Test" />
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome25.TestDate" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome22.*" />
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome26.TestDateFormat" />
+      <module name="TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +363,6 @@
     </configuration>
     <configuration name="TestStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome23.TestStringBuffer" />
-      <module name="TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.MyPro06.CommonClasses.dome23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.MyPro06.CommonClasses.dome23.TestStringBuilder" />
       <module name="TestJava" />
       <extension name="coverage">
         <pattern>
@@ -386,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDateFormat" />
+        <item itemvalue="Application.TestDate" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.TestStringBuffer" />
         <item itemvalue="Application.TestStringBuilder2" />
-        <item itemvalue="Application.TestStringBuilder" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -487,14 +490,9 @@
       <workItem from="1576221969754" duration="1498000" />
       <workItem from="1576238403681" duration="2558000" />
       <workItem from="1576496416674" duration="167000" />
-      <workItem from="1577105342558" duration="1023000" />
-    </task>
-    <task id="LOCAL-00006" summary="测试值传递">
-      <created>1559609365796</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1559609365797</updated>
+      <workItem from="1577105342558" duration="1089000" />
+      <workItem from="1577360953663" duration="112000" />
+      <workItem from="1577617333180" duration="3473000" />
     </task>
     <task id="LOCAL-00007" summary="包的使用">
       <created>1560300333437</created>
@@ -832,16 +830,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576496557520</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="测试不可变字符序列和可变字符系列使用陷阱">
+      <created>1577106375884</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1577106375885</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164185000" />
+    <option name="totallyTimeSpent" value="167836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58784676" visible="true" weight="0.17039403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58784676" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" sideWeight="0.41215324" side_tool="true" weight="0.16719915" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -850,7 +855,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4192771" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.25049505" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49817917" visible="true" weight="0.24939759" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37227723" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -860,7 +865,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035765" side_tool="true" weight="0.277707" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2009901" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24920128" />
@@ -917,7 +922,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="抽象类和抽象方法" />
     <MESSAGE value="接口" />
     <MESSAGE value="接口和类的关系" />
     <MESSAGE value="接口+实现类+接口的实现类方式" />
@@ -942,21 +946,14 @@
     <MESSAGE value="测试自动装箱和拆箱+各个类型之间的转换" />
     <MESSAGE value="测试自动装箱和拆箱" />
     <MESSAGE value="测试StringBuilder、StringBuffer的常用方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试StringBuilder、StringBuffer的常用方法" />
+    <MESSAGE value="测试不可变字符序列和可变字符系列使用陷阱" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试不可变字符序列和可变字符系列使用陷阱" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/ObjectDeepening/dome02/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-683">
@@ -1262,6 +1259,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
@@ -1308,17 +1312,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome23/TestStringBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+        <state relative-caret-position="745">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome24/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome25/TestDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="367">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyPro06/CommonClasses/dome26/TestDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
